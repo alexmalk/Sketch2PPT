@@ -1,6 +1,6 @@
 
 # Sketch to PowerPoint
-Generate PowerPoint files from Sketch files
+Generate PowerPoint files from Sketch files with a shell script!
 
 ![](images/Sketch2PPTProcess.gif)
 
