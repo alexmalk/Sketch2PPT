@@ -6,10 +6,17 @@ Generate PowerPoint files from Sketch files
 
 ### To do
 
-- [ ] Unique 32-character IDs that are a mix of numbers and letters assigned to images in the slide[#].xmls
-- [ ] Verify that are relationships IDs are correctly assigned, also in slide[#].xml files
-- [ ] Run diffs against a working PPT file (using Bash's diff function)
-- [ ] Bringing the script into Automator for the workflow integration 
+- [ ] Generate unique 32-character IDs assigned to images in the slide#.xml files
+- [ ] Verify that are relationships IDs are correctly assigned, also in slide#.xml files
+- [ ] Run diffs against a working PPT file
+- [ ] Create a workflow using Automator
+- [ ] Support for multi-page Sketch files
+
+### Completed
+
+- [x] Removed changesInfos1.xml without errors
+- [x] Looping through artboards
+- [x] Generate slide images and thumbnail
 
 ### Tools used
 
